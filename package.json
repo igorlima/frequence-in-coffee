@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Igor Ribeiro Lima",
+    "email": "lima.igorrribeiro@gmail.com",
+    "website": "http://github.com/igorlima"
+  },
+  "name": "frequence-in-coffee",
+  "description": "A sample function which has a string as parameter and return a hashtable containing each character as key and the frequence of each character as a value.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/igorlima/frequence-in-coffee",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:igorlima/frequence-in-coffee.git"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jasmine":  "*",
+    "grunt-contrib-coffee":   "*",
+    "grunt-contrib-watch":    "*",
+    "grunt-contrib-clean":    "*"
+  },
+  "scripts": {
+    "preinstall": "npm install -g grunt-cli",
+    "test": "grunt"
+  }
+}
