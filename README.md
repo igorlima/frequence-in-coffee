@@ -1,3 +1,7 @@
+<a href="https://api.travis-ci.org/igorlima/frequence-in-coffee">
+  <img src="https://api.travis-ci.org/igorlima/frequence-in-coffee.png" alt="Travis CI badge" />
+</a>
+
 #Frequence in Coffee Script
 
 A sample function which has a string as parameter and return a hashtable containing each character as **key** and the frequence of each character as a **value**.
